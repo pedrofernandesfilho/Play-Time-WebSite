@@ -5,7 +5,7 @@ Locação, aluguel e venda de máquinas de diversão eletrônica, vídeo game e 
 
 Telefones: (11) 2452-8373 / (11) 9 9603-8923 (WhatsApp)
 
-Nextel ID: 35*7*36202
+Nextel ID: 35\*7\*36202
 
 Email: playdiv@yahoo.com.br
 
