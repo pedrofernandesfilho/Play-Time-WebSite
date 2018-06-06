@@ -7,22 +7,23 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
     <title>Play Time Entretenimento</title>
     <style>
-        p { font-size: 18px; }
+        @media (max-width: 350px) {
+            header img { content:url(./resources/images/header_small.svg) }
+        }
+        @media (min-width: 351px) {
+            header img { content:url(./resources/images/header_large.svg) }
+        }
     </style>
 </head>
 <body>
     <!-- HEADER -->
-    <header class="container">
-        <img src="resources/images/header_large.svg" alt="Play Time Enretenimento">
-    </header>
+    <header class="container"><img alt="Play Time Enretenimento"></header>
     <!-- MENU -->
-    <nav role="navigation" class="sticky-top">
-        <div class="container">
-            MENU -
-            <a href="#">Link 1</a> -
-            <a href="#">Link 2</a> -
-            <a href="#">Link 3</a>
-        </div>
+    <nav role="navigation" class="nav container sticky-top">
+        <a class="nav-link" href="#">MENU</a>
+        <a class="nav-link" href="#">Link 1</a>
+        <a class="nav-link" href="#">Link 2</a>
+        <a class="nav-link" href="#">Link 3</a>
     </nav>
     <!-- CONTENT -->
     <main class="container">
