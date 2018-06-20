@@ -3,969 +3,441 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1140 315" style="enable-background:new 0 0 1140 315;" xml:space="preserve">
 <style type="text/css">
-	.st0{clip-path:url(#SVGID_2_);}
-	.st1{clip-path:url(#SVGID_6_);fill:#1139C6;}
-	.st2{fill:#0D2AA3;}
-	.st3{clip-path:url(#SVGID_10_);}
-	.st4{clip-path:url(#SVGID_14_);}
-	.st5{clip-path:url(#SVGID_18_);}
-	.st6{clip-path:url(#SVGID_22_);}
-	.st7{clip-path:url(#SVGID_26_);}
-	.st8{clip-path:url(#SVGID_30_);}
-	.st9{clip-path:url(#SVGID_34_);}
-	.st10{clip-path:url(#SVGID_38_);}
-	.st11{clip-path:url(#SVGID_42_);}
-	.st12{clip-path:url(#SVGID_46_);}
-	.st13{clip-path:url(#SVGID_50_);}
-	.st14{clip-path:url(#SVGID_54_);}
-	.st15{clip-path:url(#SVGID_58_);}
-	.st16{clip-path:url(#SVGID_62_);}
-	.st17{clip-path:url(#SVGID_66_);}
-	.st18{clip-path:url(#SVGID_70_);}
-	.st19{clip-path:url(#SVGID_74_);}
-	.st20{clip-path:url(#SVGID_78_);}
-	.st21{clip-path:url(#SVGID_82_);}
-	.st22{clip-path:url(#SVGID_86_);}
-	.st23{clip-path:url(#SVGID_90_);}
-	.st24{clip-path:url(#SVGID_94_);}
-	.st25{clip-path:url(#SVGID_98_);}
-	.st26{clip-path:url(#SVGID_100_);}
-	.st27{clip-path:url(#SVGID_102_);}
-	.st28{clip-path:url(#SVGID_104_);}
-	.st29{clip-path:url(#SVGID_106_);}
-	.st30{clip-path:url(#SVGID_108_);}
-	.st31{clip-path:url(#SVGID_110_);}
-	.st32{clip-path:url(#SVGID_112_);}
-	.st33{clip-path:url(#SVGID_114_);}
-	.st34{clip-path:url(#SVGID_116_);}
-	.st35{clip-path:url(#SVGID_118_);}
-	.st36{clip-path:url(#SVGID_120_);}
-	.st37{clip-path:url(#SVGID_122_);}
-	.st38{clip-path:url(#SVGID_124_);}
-	.st39{clip-path:url(#SVGID_126_);}
-	.st40{clip-path:url(#SVGID_128_);}
-	.st41{clip-path:url(#SVGID_130_);}
-	.st42{clip-path:url(#SVGID_132_);}
-	.st43{clip-path:url(#SVGID_134_);}
-	.st44{clip-path:url(#SVGID_136_);}
-	.st45{clip-path:url(#SVGID_138_);}
-	.st46{clip-path:url(#SVGID_140_);}
-	.st47{fill:#252121;}
-	.st48{fill:#212121;}
-	.st49{fill:#FFFFFF;}
-	.st50{fill:#120E0E;}
-	.st51{fill:#F9E317;}
-	.st52{fill:#F90606;}
-	.st53{fill:#FF0025;}
+	.st0{fill:#1139C6;}
+	.st1{fill:#0D2AA3;}
+	.st2{fill:#252121;}
+	.st3{fill:#212121;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#120E0E;}
+	.st6{fill:#F9E317;}
+	.st7{fill:#F90606;}
+	.st8{fill:#FF0025;}
 </style>
+<rect x="-9.3" y="-4.2" class="st0" width="1158.6" height="323.3"/>
 <g>
-	<defs>
-		<rect id="SVGID_1_" width="1140" height="315"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-	</clipPath>
-	<g class="st0">
+	<polygon class="st0" points="-9.3,24.8 -9.3,64.4 573.6,158.4 	"/>
+	<polygon class="st0" points="641.4,-4.2 597.4,-4.2 573.6,158.2 	"/>
+	<polygon class="st0" points="-9.3,105 -9.3,139.5 573.6,158.4 	"/>
+	<polygon class="st0" points="454.7,-4.2 404.1,-4.2 573.6,158.2 	"/>
+	<polygon class="st0" points="340.5,-4.2 271.7,-4.2 573.6,158.2 	"/>
+	<polygon class="st0" points="875.5,-4.2 806.8,-4.2 573.6,158.2 	"/>
+	<polygon class="st0" points="1088.3,-4.2 971.3,-4.2 573.6,158.4 	"/>
+	<polygon class="st0" points="-9.3,177.1 -9.3,211.6 573.6,158.4 	"/>
+	<polygon class="st0" points="743.1,-4.2 692.6,-4.2 573.6,158.2 	"/>
+	<polygon class="st0" points="175.7,-4.2 58.6,-4.2 573.6,158.2 	"/>
+	<polygon class="st0" points="549.8,-4.2 505.8,-4.2 573.6,158.2 	"/>
+	<polygon class="st0" points="596.8,319.2 639.4,319.2 573.6,158.4 	"/>
+	<polygon class="st0" points="1149.3,290.3 1149.3,250.9 573.6,158.4 	"/>
+	<polygon class="st0" points="800.4,319.2 867.2,319.2 573.6,158.4 	"/>
+	<polygon class="st0" points="1149.3,211 1149.3,176.9 573.6,158.4 	"/>
+	<polygon class="st0" points="1149.3,139.7 1149.3,105.6 573.6,158.4 	"/>
+	<polygon class="st0" points="1149.3,65.7 1149.3,26.3 573.6,158.4 	"/>
+	<polygon class="st0" points="689.1,319.2 738.3,319.2 573.6,158.4 	"/>
+	<polygon class="st0" points="960.3,319.2 1074.1,319.2 573.6,158.4 	"/>
+	<polygon class="st0" points="73.1,319.2 187,319.2 573.6,158.4 	"/>
+	<polygon class="st0" points="280.1,319.2 346.9,319.2 573.6,158.4 	"/>
+	<polygon class="st0" points="507.8,319.2 550.4,319.2 573.6,158.6 	"/>
+	<polygon class="st0" points="-9.3,251.9 -9.3,291.8 573.6,158.4 	"/>
+	<polygon class="st0" points="408.9,319.2 457.9,319.2 573.6,158.4 	"/>
+	<polygon class="st1" points="692.6,-4.2 641.4,-4.2 573.6,158.2 	"/>
+	<polygon class="st1" points="597.4,-4.2 549.8,-4.2 573.6,158.2 	"/>
+	<polygon class="st1" points="573.6,158.4 971.3,-4.2 875.5,-4.2 573.6,158.2 	"/>
+	<polygon class="st1" points="738.3,319.2 800.4,319.2 573.6,158.4 	"/>
+	<polygon class="st1" points="346.9,319.2 408.9,319.2 573.6,158.4 	"/>
+	<polygon class="st1" points="1088.3,-4.2 573.6,158.4 1149.3,26.3 1149.3,-4.2 	"/>
+	<polygon class="st1" points="457.9,319.2 507.8,319.2 573.6,158.6 550.4,319.2 596.8,319.2 573.6,158.4 	"/>
+	<polygon class="st1" points="867.2,319.2 960.3,319.2 573.6,158.4 	"/>
+	<polygon class="st1" points="1149.3,105.6 1149.3,65.7 573.6,158.4 	"/>
+	<polygon class="st1" points="1149.3,176.9 1149.3,139.7 573.6,158.4 	"/>
+	<polygon class="st1" points="1149.3,250.9 1149.3,211 573.6,158.4 	"/>
+	<polygon class="st1" points="1074.1,319.2 1149.3,319.2 1149.3,290.3 573.6,158.4 	"/>
+	<polygon class="st1" points="639.4,319.2 689.1,319.2 573.6,158.4 	"/>
+	<polygon class="st1" points="573.6,158.2 58.6,-4.2 -9.3,-4.2 -9.3,24.8 573.6,158.4 	"/>
+	<polygon class="st1" points="271.7,-4.2 175.7,-4.2 573.6,158.2 	"/>
+	<polygon class="st1" points="187,319.2 280.1,319.2 573.6,158.4 	"/>
+	<polygon class="st1" points="505.8,-4.2 454.7,-4.2 573.6,158.2 	"/>
+	<polygon class="st1" points="404.1,-4.2 340.5,-4.2 573.6,158.2 	"/>
+	<polygon class="st1" points="-9.3,211.6 -9.3,251.9 573.6,158.4 	"/>
+	<polygon class="st1" points="-9.3,64.4 -9.3,105 573.6,158.4 	"/>
+	<polygon class="st1" points="-9.3,291.8 -9.3,319.2 73.1,319.2 573.6,158.4 	"/>
+	<polygon class="st1" points="-9.3,139.5 -9.3,177.1 573.6,158.4 	"/>
+	<polygon class="st1" points="806.8,-4.2 743.1,-4.2 573.6,158.2 	"/>
+</g>
+<g>
+	<g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+		</image>
+	</g>
+	<g>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+			</image>
+		</g>
 		<g>
 			<g>
-				<g>
-					<g>
-						<g>
-							<defs>
-								<rect id="SVGID_4_" x="-11.2" y="-4.6" width="1162.5" height="324"/>
-							</defs>
-							<clipPath id="SVGID_6_">
-								<use xlink:href="#SVGID_4_"  style="overflow:visible;"/>
-							</clipPath>
-							<rect x="-9.6" y="-4.2" class="st1" width="1158.6" height="323.3"/>
-						</g>
-					</g>
-				</g>
+				
+					<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+				</image>
 			</g>
 			<g>
 				<g>
-					<g>
-						<g>
-							<g>
-								<polygon id="SVGID_3_" class="st2" points="695.2,-9 642.8,-9 573.4,159.7 								"/>
-							</g>
-						</g>
-					</g>
-				</g>
-				<g>
-					<g>
-						<g>
-							<g>
-								<polygon id="SVGID_5_" class="st2" points="597.8,-9 549,-9 573.4,159.7 								"/>
-							</g>
-						</g>
-					</g>
-				</g>
-				<g>
-					<g>
-						<g>
-							<g>
-								<g>
-									<polygon id="SVGID_7_" class="st2" points="1149.3,25.8 1149.3,-9 1100.4,-9 573.4,159.9 573.4,159.9 980.6,-9 882.5,-9 
-										573.4,159.7 573.4,159.7 573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 
-										573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 
-										573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 573.4,159.9 
-										573.4,159.7 573.4,159.7 573.4,159.7 573.4,159.7 573.4,159.7 573.4,159.7 573.4,159.7 573.4,159.7 573.4,159.7 
-										573.4,159.7 504,-9 451.6,-9 573.4,159.7 573.4,159.7 399.8,-9 334.7,-9 573.4,159.7 573.4,159.7 264.3,-9 166,-9 
-										573.4,159.7 573.4,159.7 46.1,-9 -9.6,-9 -9.6,24.3 573.4,159.9 573.4,159.9 -9.6,64.5 -9.6,105.7 573.4,159.9 
-										573.4,159.9 -9.6,140.7 -9.6,178.9 573.4,159.9 573.4,159.9 -9.6,213.9 -9.6,254.8 573.4,159.9 573.4,159.9 -9.6,295.3 
-										-9.6,324 60.7,324 573.4,159.9 573.4,159.9 177.4,324 272.8,324 573.4,159.9 573.4,159.9 341.2,324 404.7,324 573.4,159.9 
-										573.4,159.9 454.9,324 506,324 573.4,160.1 549.6,324 597.2,324 573.4,159.9 573.4,159.9 640.8,324 691.7,324 573.4,159.9 
-										573.4,159.9 742.1,324 805.7,324 573.4,159.9 573.4,159.9 874.1,324 969.5,324 573.4,159.9 573.4,159.9 1086.1,324 
-										1149.3,324 1149.3,293.8 573.4,159.9 573.4,159.9 1149.3,253.8 1149.3,213.3 573.4,159.9 573.4,159.9 1149.3,178.7 
-										1149.3,140.9 573.4,159.9 573.4,159.9 1149.3,106.3 1149.3,65.8 573.4,159.9 573.4,159.9 									"/>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<path id="SVGID_8_" d="M573.4,159.9L573.4,159.9L573.4,159.9z"/>
-									</defs>
-									<clipPath id="SVGID_10_">
-										<use xlink:href="#SVGID_8_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st3">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_12_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_14_">
-										<use xlink:href="#SVGID_12_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st4">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_16_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_18_">
-										<use xlink:href="#SVGID_16_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st5">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_20_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_22_">
-										<use xlink:href="#SVGID_20_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st6">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_24_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_26_">
-										<use xlink:href="#SVGID_24_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st7">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_28_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_30_">
-										<use xlink:href="#SVGID_28_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st8">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<polygon id="SVGID_32_" points="573.4,159.9 573.4,159.9 573.4,159.9 										"/>
-									</defs>
-									<clipPath id="SVGID_34_">
-										<use xlink:href="#SVGID_32_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st9">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_36_" cx="573.5" cy="159.8" r="0"/>
-									</defs>
-									<clipPath id="SVGID_38_">
-										<use xlink:href="#SVGID_36_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st10">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_40_" cx="573.5" cy="159.8" r="0"/>
-									</defs>
-									<clipPath id="SVGID_42_">
-										<use xlink:href="#SVGID_40_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st11">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_44_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_46_">
-										<use xlink:href="#SVGID_44_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st12">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_48_" cx="573.5" cy="159.8" r="0"/>
-									</defs>
-									<clipPath id="SVGID_50_">
-										<use xlink:href="#SVGID_48_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st13">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_52_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_54_">
-										<use xlink:href="#SVGID_52_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st14">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_56_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_58_">
-										<use xlink:href="#SVGID_56_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st15">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_60_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_62_">
-										<use xlink:href="#SVGID_60_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st16">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_64_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_66_">
-										<use xlink:href="#SVGID_64_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st17">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_68_" cx="573.5" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_70_">
-										<use xlink:href="#SVGID_68_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st18">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_72_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_74_">
-										<use xlink:href="#SVGID_72_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st19">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<path id="SVGID_76_" d="M573.4,159.9L573.4,159.9L573.4,159.9z"/>
-									</defs>
-									<clipPath id="SVGID_78_">
-										<use xlink:href="#SVGID_76_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st20">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_80_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_82_">
-										<use xlink:href="#SVGID_80_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st21">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<path id="SVGID_84_" d="M573.4,159.9L573.4,159.9L573.4,159.9z"/>
-									</defs>
-									<clipPath id="SVGID_86_">
-										<use xlink:href="#SVGID_84_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st22">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_88_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_90_">
-										<use xlink:href="#SVGID_88_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st23">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_92_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_94_">
-										<use xlink:href="#SVGID_92_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st24">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<path id="SVGID_96_" d="M573.4,159.9L573.4,159.9L573.4,159.9z"/>
-									</defs>
-									<clipPath id="SVGID_98_">
-										<use xlink:href="#SVGID_96_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st25">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<path id="SVGID_99_" d="M573.4,159.9L573.4,159.9L573.4,159.9z"/>
-									</defs>
-									<clipPath id="SVGID_100_">
-										<use xlink:href="#SVGID_99_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st26">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_101_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_102_">
-										<use xlink:href="#SVGID_101_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st27">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<polygon id="SVGID_103_" points="573.4,159.9 573.4,159.9 573.4,159.9 										"/>
-									</defs>
-									<clipPath id="SVGID_104_">
-										<use xlink:href="#SVGID_103_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st28">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_105_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_106_">
-										<use xlink:href="#SVGID_105_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st29">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<path id="SVGID_107_" d="M573.4,159.9L573.4,159.9L573.4,159.9z"/>
-									</defs>
-									<clipPath id="SVGID_108_">
-										<use xlink:href="#SVGID_107_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st30">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<polygon id="SVGID_109_" points="573.4,159.9 573.4,159.9 573.4,159.9 										"/>
-									</defs>
-									<clipPath id="SVGID_110_">
-										<use xlink:href="#SVGID_109_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st31">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<polygon id="SVGID_111_" points="573.4,159.7 573.4,159.7 573.4,159.7 										"/>
-									</defs>
-									<clipPath id="SVGID_112_">
-										<use xlink:href="#SVGID_111_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st32">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<polygon id="SVGID_113_" points="573.4,159.9 573.4,159.9 573.4,159.9 										"/>
-									</defs>
-									<clipPath id="SVGID_114_">
-										<use xlink:href="#SVGID_113_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st33">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<polygon id="SVGID_115_" points="573.4,159.9 573.4,159.9 573.4,159.9 										"/>
-									</defs>
-									<clipPath id="SVGID_116_">
-										<use xlink:href="#SVGID_115_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st34">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_117_" cx="573.5" cy="159.8" r="0"/>
-									</defs>
-									<clipPath id="SVGID_118_">
-										<use xlink:href="#SVGID_117_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st35">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_119_" cx="573.5" cy="159.8" r="0"/>
-									</defs>
-									<clipPath id="SVGID_120_">
-										<use xlink:href="#SVGID_119_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st36">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_121_" cx="573.5" cy="159.8" r="0"/>
-									</defs>
-									<clipPath id="SVGID_122_">
-										<use xlink:href="#SVGID_121_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st37">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_123_" cx="573.4" cy="159.8" r="0"/>
-									</defs>
-									<clipPath id="SVGID_124_">
-										<use xlink:href="#SVGID_123_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st38">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+					
+						<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
-lmO3AAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 569.8372 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_125_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_126_">
-										<use xlink:href="#SVGID_125_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st39">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_127_" cx="573.5" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_128_">
-										<use xlink:href="#SVGID_127_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st40">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_129_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_130_">
-										<use xlink:href="#SVGID_129_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st41">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_131_" cx="573.5" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_132_">
-										<use xlink:href="#SVGID_131_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st42">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<polygon id="SVGID_133_" points="573.5,159.8 573.5,159.8 573.5,159.8 										"/>
-									</defs>
-									<clipPath id="SVGID_134_">
-										<use xlink:href="#SVGID_133_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st43">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_135_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_136_">
-										<use xlink:href="#SVGID_135_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st44">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<circle id="SVGID_137_" cx="573.4" cy="159.9" r="0"/>
-									</defs>
-									<clipPath id="SVGID_138_">
-										<use xlink:href="#SVGID_137_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st45">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g>
-							<g>
-								<g>
-									<defs>
-										<path id="SVGID_139_" d="M573.4,159.9L573.4,159.9L573.4,159.9z"/>
-									</defs>
-									<clipPath id="SVGID_140_">
-										<use xlink:href="#SVGID_139_"  style="overflow:visible;"/>
-									</clipPath>
-									<g class="st46">
-										
-											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYAACgAADAAAFAAHb
-iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
-										</image>
-									</g>
-								</g>
-							</g>
-						</g>
-					</g>
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+					</image>
 				</g>
 				<g>
 					<g>
+						
+							<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+						</image>
+					</g>
+					<g>
+						<g>
+							
+								<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+							</image>
+						</g>
 						<g>
 							<g>
-								<polygon id="SVGID_97_" class="st2" points="812.2,-9 747,-9 573.4,159.7 573.4,159.7 573.4,159.7 573.4,159.7 573.4,159.7 
-																	"/>
+								
+									<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+								</image>
+							</g>
+							<g>
+								<g>
+									
+										<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+									</image>
+								</g>
+								<g>
+									<g>
+										
+											<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+										</image>
+									</g>
+									<g>
+										<g>
+											
+												<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+											</image>
+										</g>
+										<g>
+											<g>
+												
+													<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+												</image>
+											</g>
+											<g>
+												<g>
+													
+														<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+													</image>
+												</g>
+												<g>
+													<g>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+														</image>
+													</g>
+													<g>
+														<g>
+															
+																<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+															</image>
+														</g>
+														<g>
+															<g>
+																
+																	<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+																</image>
+															</g>
+															<g>
+																<g>
+																	
+																		<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+																	</image>
+																</g>
+																<g>
+																	<g>
+																		<g>
+																			<g>
+																				<g>
+																					
+																						<image style="overflow:visible;enable-background:new    ;" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAACXBIWXMAAANiAAADYgHLPBUUAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYIACgAADAAAJAAE0
+lmO3AAAAAElFTkSuQmCC" transform="matrix(3.3053 0 0 2.1875 573.2923 515.5042)">
+																					</image>
+																				</g>
+																			</g>
+																		</g>
+																	</g>
+																</g>
+															</g>
+														</g>
+													</g>
+												</g>
+												<g>
+													<g>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYBgcACDAAACIAAFp
+5ZOiAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzAMjABBgAAe0
+ABloil3HAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYBgcACDAAACIAAFp
+5ZOiAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYBgcACDAAACIAAFp
+5ZOiAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYBgcACDAAACIAAFp
+5ZOiAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYBgcACDAAACIAAFp
+5ZOiAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzAMjABBgAAe0
+ABloil3HAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzAMjABBgAAe0
+ABloil3HAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzAMjABBgAAe0
+ABloil3HAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYBgcACDAAACIAAFp
+5ZOiAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYBgcACDAAACIAAFp
+5ZOiAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzAMjABBgAAe0
+ABloil3HAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYBgcACDAAACIAAFp
+5ZOiAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzAMjABBgAAe0
+ABloil3HAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzAMjABBgAAe0
+ABloil3HAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzAMjABBgAAe0
+ABloil3HAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYBgcACDAAACIAAFp
+5ZOiAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzAMjABBgAAe0
+ABloil3HAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzAMjABBgAAe0
+ABloil3HAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="6" height="4" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAMCAYAAABfnvydAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAACpJREFUeNpiYBhkoCjtvwMII4ux
+oKnZD6UZYQJMWAxyxGfFfoZBCAACDABkXQfMSj6FOAAAAABJRU5ErkJggg==" transform="matrix(0.2436 0 0 0.36 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="6" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9JREFUeNpiYBgFIAAQYAABCAAB
+GeYnzAAAAABJRU5ErkJggg==" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYBgcACDAAACIAAFp
+5ZOiAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYBgcACDAAACIAAFp
+5ZOiAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzAMjABBgAAe0
+ABloil3HAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYBgcACDAAACIAAFp
+5ZOiAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzAMjABBgAAe0
+ABloil3HAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTAMjABBgAAVQ
+ABEM/t+GAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+														
+															<image style="overflow:visible;enable-background:new    ;" width="4" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAYAAADeM14FAAAACXBIWXMAAC2FAAAthQF8E3IuAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYBgcACDAAACIAAFp
+5ZOiAAAAAElFTkSuQmCC" transform="matrix(0.2436 0 0 0.24 573.501 518.2268)">
+														</image>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
 							</g>
 						</g>
 					</g>
@@ -976,232 +448,8 @@ iZPSAAAAAElFTkSuQmCC" transform="matrix(3.2571 0 0 2.1875 573.0943 157.9375)">
 </g>
 <g>
 	<g>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzOgCAAEGAAC7
-AAdBggR7AAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzOgCAAEGAAC7
-AAdBggR7AAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzOgCAAEGAAC7
-AAdBggR7AAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzOgCAAEGAAC7
-AAdBggR7AAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzOgCAAEGAAC7
-AAdBggR7AAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzOgCAAEGAAC7
-AAdBggR7AAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzOgCAAEGAAC7
-AAdBggR7AAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzOgCAAEGAAC7
-AAdBggR7AAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzOgCAAEGAAC7
-AAdBggR7AAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiZkADzOgCAAEGAAC7
-AAdBggR7AAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="3" height="3" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABlJREFUeNpiYCAEitL+/wdhrBIM
-xACAAAMAz5YIgy5Q3KoAAAAASUVORK5CYII=" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="3" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAACCAYAAAB7Xa1eAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAVAAQYAAAyAAGz
-NB8+AAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYCAEAAIMAAAiAAHv
-Pp/LAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-		
-			<image style="overflow:visible;" width="2" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABFJREFUeNpiYkADTOgCAAEGAACI
-AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
-		</image>
-	</g>
-</g>
-<g>
-	<g>
 		<g>
-			<path class="st47" d="M580.4,109.1L596.7,89l-16.2,7.8l-5.6-12.4l-10.9,10.1l-8.5-14.7l-7.4,14.8L537,83.7L532,96.4l-17.3-8.1
+			<path class="st2" d="M580.4,109.1L596.7,89l-16.2,7.8l-5.6-12.4l-10.9,10.1l-8.5-14.7l-7.4,14.8L537,83.7L532,96.4l-17.3-8.1
 				l17.3,20.8h-23.7c0,0,0,29,0,64.1c0,35.1,47.3,64.1,47.3,64.1c47.3-32.8,47.3-63.9,47.3-63.9v-64.3H580.4z"/>
 		</g>
 		<g>
@@ -1211,92 +459,92 @@ AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
 						l-0.7,0.5L551,233.7z"/>
 				</g>
 				<g>
-					<path class="st48" d="M597.8,107.6v62.7c0,0,0,30.3-46.1,62.3c0,0-46.1-28.2-46.1-62.5c0-34.3,0-62.5,0-62.5H597.8
-						 M600.3,105.1h-2.5h-92.3H503v2.5v62.5c0,14.7,8.2,30.6,23.8,45.9c11.6,11.4,23,18.5,23.5,18.7l1.4,0.9l1.3-0.9
+					<path class="st3" d="M597.8,107.6v62.7c0,0,0,30.3-46.1,62.3c0,0-46.1-28.2-46.1-62.5c0-34.3,0-62.5,0-62.5H597.8 M600.3,105.1
+						h-2.5h-92.3H503v2.5v62.5c0,14.7,8.2,30.6,23.8,45.9c11.6,11.4,23,18.5,23.5,18.7l1.4,0.9l1.3-0.9
 						c46.7-32.4,47.2-63.1,47.2-64.4v-62.7V105.1L600.3,105.1z"/>
 				</g>
 			</g>
 			<g>
 				<g>
 					<g>
-						<rect x="552.3" y="107.5" class="st49" width="0.1" height="12.5"/>
+						<rect x="552.3" y="107.5" class="st4" width="0.1" height="12.5"/>
 					</g>
 					<g>
-						<rect x="552.4" y="107.5" class="st49" width="11.3" height="12.5"/>
+						<rect x="552.4" y="107.5" class="st4" width="11.3" height="12.5"/>
 					</g>
 					<g>
-						<rect x="563.7" y="107.5" class="st50" width="11.4" height="12.5"/>
+						<rect x="563.7" y="107.5" class="st5" width="11.4" height="12.5"/>
 					</g>
 					<g>
-						<rect x="575" y="107.5" class="st49" width="11.4" height="12.5"/>
+						<rect x="575" y="107.5" class="st4" width="11.4" height="12.5"/>
 					</g>
 					<g>
-						<rect x="586.4" y="107.5" class="st50" width="11.4" height="12.5"/>
+						<rect x="586.4" y="107.5" class="st5" width="11.4" height="12.5"/>
 					</g>
 					<g>
-						<rect x="586.4" y="120" class="st49" width="11.4" height="12.5"/>
+						<rect x="586.4" y="120" class="st4" width="11.4" height="12.5"/>
 					</g>
 					<g>
-						<rect x="575" y="120" class="st50" width="11.4" height="12.5"/>
+						<rect x="575" y="120" class="st5" width="11.4" height="12.5"/>
 					</g>
 					<g>
-						<rect x="563.7" y="120" class="st49" width="11.4" height="12.5"/>
+						<rect x="563.7" y="120" class="st4" width="11.4" height="12.5"/>
 					</g>
 					<g>
-						<rect x="552.3" y="120" class="st50" width="0.1" height="12.5"/>
+						<rect x="552.3" y="120" class="st5" width="0.1" height="12.5"/>
 					</g>
 					<g>
-						<rect x="552.4" y="120" class="st50" width="11.3" height="12.5"/>
+						<rect x="552.4" y="120" class="st5" width="11.3" height="12.5"/>
 					</g>
 					<g>
-						<rect x="552.3" y="132.5" class="st49" width="0.1" height="12.5"/>
+						<rect x="552.3" y="132.5" class="st4" width="0.1" height="12.5"/>
 					</g>
 					<g>
-						<rect x="552.4" y="132.5" class="st49" width="11.3" height="12.5"/>
+						<rect x="552.4" y="132.5" class="st4" width="11.3" height="12.5"/>
 					</g>
 					<g>
-						<rect x="563.7" y="132.5" class="st50" width="11.4" height="12.5"/>
+						<rect x="563.7" y="132.5" class="st5" width="11.4" height="12.5"/>
 					</g>
 					<g>
-						<rect x="575" y="132.5" class="st49" width="11.4" height="12.5"/>
+						<rect x="575" y="132.5" class="st4" width="11.4" height="12.5"/>
 					</g>
 					<g>
-						<rect x="586.4" y="132.5" class="st50" width="11.4" height="12.5"/>
+						<rect x="586.4" y="132.5" class="st5" width="11.4" height="12.5"/>
 					</g>
 					<g>
-						<rect x="586.4" y="144.9" class="st49" width="11.4" height="12.5"/>
+						<rect x="586.4" y="144.9" class="st4" width="11.4" height="12.5"/>
 					</g>
 					<g>
-						<rect x="575" y="144.9" class="st50" width="11.4" height="12.5"/>
+						<rect x="575" y="144.9" class="st5" width="11.4" height="12.5"/>
 					</g>
 					<g>
-						<rect x="563.7" y="144.9" class="st49" width="11.4" height="12.5"/>
+						<rect x="563.7" y="144.9" class="st4" width="11.4" height="12.5"/>
 					</g>
 					<g>
-						<rect x="552.3" y="144.9" class="st50" width="0.1" height="12.5"/>
+						<rect x="552.3" y="144.9" class="st5" width="0.1" height="12.5"/>
 					</g>
 					<g>
-						<rect x="552.4" y="144.9" class="st50" width="11.3" height="12.5"/>
+						<rect x="552.4" y="144.9" class="st5" width="11.3" height="12.5"/>
 					</g>
 					<g>
-						<rect x="552.3" y="157.4" class="st49" width="0.1" height="12.5"/>
+						<rect x="552.3" y="157.4" class="st4" width="0.1" height="12.5"/>
 					</g>
 					<g>
-						<rect x="552.4" y="157.4" class="st49" width="11.3" height="12.5"/>
+						<rect x="552.4" y="157.4" class="st4" width="11.3" height="12.5"/>
 					</g>
 					<g>
-						<rect x="563.7" y="157.4" class="st50" width="11.4" height="12.5"/>
+						<rect x="563.7" y="157.4" class="st5" width="11.4" height="12.5"/>
 					</g>
 					<g>
-						<rect x="575" y="157.4" class="st49" width="11.4" height="12.5"/>
+						<rect x="575" y="157.4" class="st4" width="11.4" height="12.5"/>
 					</g>
 					<g>
-						<rect x="586.4" y="157.4" class="st50" width="11.4" height="12.5"/>
+						<rect x="586.4" y="157.4" class="st5" width="11.4" height="12.5"/>
 					</g>
 				</g>
 				<g>
 					<g>
-						<polygon class="st51" points="528,106.7 511.1,86.4 528,94.3 532.8,81.9 543.5,92.6 550.7,78.1 559,92.4 569.7,82.6 
+						<polygon class="st6" points="528,106.7 511.1,86.4 528,94.3 532.8,81.9 543.5,92.6 550.7,78.1 559,92.4 569.7,82.6 
 							575.2,94.7 591,87.1 575.2,106.7 						"/>
 						<path d="M575.6,107.7h-48.1l-19.8-23.9l19.8,9.3l5-12.8L543.2,91l7.4-14.9l8.5,14.8l10.8-9.9l5.6,12.4l18.7-9L575.6,107.7z
 							 M528.5,105.8h46.3l13-16.1l-13,6.2l-5.4-11.7l-10.6,9.7l-8-13.8l-7,14.1l-10.6-10.6l-4.7,12l-14-6.6L528.5,105.8z"/>
@@ -1304,13 +552,13 @@ AAXn7IQaAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 573.3 160.66)">
 					<g>
 						<g>
 							<defs>
-								<polygon id="SVGID_141_" points="529,104.7 518.6,92.2 529.1,97.1 533.6,85.6 544.1,96.1 550.9,82.5 558.5,95.7 569,86.1 
+								<polygon id="SVGID_1_" points="529,104.7 518.6,92.2 529.1,97.1 533.6,85.6 544.1,96.1 550.9,82.5 558.5,95.7 569,86.1 
 									574.2,97.4 583.7,92.9 574.2,104.7 								"/>
 							</defs>
-							<clipPath id="SVGID_142_">
-								<use xlink:href="#SVGID_141_"  style="overflow:visible;"/>
+							<clipPath id="SVGID_2_">
+								<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 							</clipPath>
-							<g style="clip-path:url(#SVGID_142_);">
+							<g style="clip-path:url(#SVGID_2_);">
 								
 									<image style="overflow:visible;" width="137" height="47" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIoAAAAyCAYAAACDHkN8AAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAB+JJREFUeNrsXFty4zYQRFP2JjfI
@@ -1357,17 +605,17 @@ vwADAFvBunfxKnrnAAAAAElFTkSuQmCC" transform="matrix(0.48 0 0 0.48 518.58 82.42)"
 				</g>
 				<g>
 					<g>
-						<path class="st49" d="M505.5,170.8c0.6,31.3,39.4,57.4,45.3,61.2v-61.2H505.5z"/>
+						<path class="st4" d="M505.5,170.8c0.6,31.3,39.4,57.4,45.3,61.2v-61.2H505.5z"/>
 					</g>
 					<g>
 						<g>
 							<defs>
-								<path id="SVGID_143_" d="M552.4,231.9c41.6-29.2,45.1-56.8,45.3-61.2h-45.3V231.9z"/>
+								<path id="SVGID_3_" d="M552.4,231.9c41.6-29.2,45.1-56.8,45.3-61.2h-45.3V231.9z"/>
 							</defs>
-							<clipPath id="SVGID_144_">
-								<use xlink:href="#SVGID_143_"  style="overflow:visible;"/>
+							<clipPath id="SVGID_4_">
+								<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
 							</clipPath>
-							<g style="clip-path:url(#SVGID_144_);">
+							<g style="clip-path:url(#SVGID_4_);">
 								
 									<image style="overflow:visible;" width="96" height="129" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAACDCAYAAAB2vc4pAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABCBJREFUeNrsXVty2zAMNDM8S9r7
@@ -1397,12 +645,12 @@ DpkCv8Nge/srwABR+3IPidXAqAAAAABJRU5ErkJggg==" transform="matrix(0.48 0 0 0.48 55
 					<g>
 						<g>
 							<defs>
-								<path id="SVGID_145_" d="M550.9,107.5h-45.4c0,0,0,27.8,0,61.7h45.4V107.5z"/>
+								<path id="SVGID_5_" d="M550.9,107.5h-45.4c0,0,0,27.8,0,61.7h45.4V107.5z"/>
 							</defs>
-							<clipPath id="SVGID_146_">
-								<use xlink:href="#SVGID_145_"  style="overflow:visible;"/>
+							<clipPath id="SVGID_6_">
+								<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
 							</clipPath>
-							<g style="clip-path:url(#SVGID_146_);">
+							<g style="clip-path:url(#SVGID_6_);">
 								
 									<image style="overflow:visible;" width="207" height="211" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANAAAADVCAYAAAAmaX7HAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAE4xJREFUeNrsnYe7FcUZxnfggAKK
@@ -1521,7 +769,7 @@ QknrLw8+TLBrIBCqJoUwWxqFQqEM6v8CDABJvdeLDhVgbgAAAABJRU5ErkJggg==" transform="mat
 				<g>
 					<g>
 						<g>
-							<path class="st52" d="M518.7,120h9c3.8,0,7,1.9,9.7,5.6c1,1.9,1.5,3.7,1.5,5.2v0.7c0,3.4-1.6,6.3-4.8,8.8
+							<path class="st7" d="M518.7,120h9c3.8,0,7,1.9,9.7,5.6c1,1.9,1.5,3.7,1.5,5.2v0.7c0,3.4-1.6,6.3-4.8,8.8
 								c-2.2,1.4-4.3,2.2-6.4,2.2h-6.1V155c0,1.3-0.9,2.2-2.6,2.5h-0.2c-1.4,0-2.3-0.9-2.7-2.6v-32.1
 								C516.5,120.9,517.3,120,518.7,120z M521.7,125.2v12h5.3c3,0,5-1.4,6.1-4.1c0.2-0.5,0.3-1.2,0.3-2c0-2.5-1.3-4.3-4-5.5
 								c-0.6-0.3-1.3-0.4-2.2-0.4H521.7z"/>
@@ -1531,15 +779,15 @@ QknrLw8+TLBrIBCqJoUwWxqFQqEM6v8CDABJvdeLDhVgbgAAAABJRU5ErkJggg==" transform="mat
 						<g>
 							<g>
 								<defs>
-									<path id="SVGID_147_" d="M519.9,119.2h9c3.8,0,7,1.9,9.7,5.6c1,1.9,1.5,3.7,1.5,5.2v0.7c0,3.4-1.6,6.3-4.8,8.8
+									<path id="SVGID_7_" d="M519.9,119.2h9c3.8,0,7,1.9,9.7,5.6c1,1.9,1.5,3.7,1.5,5.2v0.7c0,3.4-1.6,6.3-4.8,8.8
 										c-2.2,1.4-4.3,2.2-6.4,2.2h-6.1v12.6c0,1.3-0.9,2.2-2.6,2.5h-0.2c-1.4,0-2.3-0.9-2.7-2.6V122
 										C517.7,120.2,518.5,119.2,519.9,119.2z M522.9,124.4v12h5.3c3,0,5-1.4,6.1-4.1c0.2-0.6,0.3-1.2,0.3-2c0-2.5-1.3-4.3-4-5.5
 										c-0.6-0.3-1.3-0.4-2.2-0.4H522.9z"/>
 								</defs>
-								<clipPath id="SVGID_148_">
-									<use xlink:href="#SVGID_147_"  style="overflow:visible;"/>
+								<clipPath id="SVGID_8_">
+									<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
 								</clipPath>
-								<g style="clip-path:url(#SVGID_148_);">
+								<g style="clip-path:url(#SVGID_8_);">
 									
 										<image style="overflow:visible;" width="26" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAABRCAYAAAAuCa0YAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAqdJREFUeNrEmAtvhCAMgKmQ7f//
@@ -1557,7 +805,7 @@ L1GiAlFi/onhU0gVw2A4ZaEwCZ6Njqx8KYFVl4nAO1MUqGuaUY4MAqi6TIbk4wn1Wu6Pp9Qrra/Y
 /j9Zze+SpCutoHXMHJFW4diNxDXNbPlr4feS33J8CzAAKzFdBJWLnLkAAAAASUVORK5CYII=" transform="matrix(0.48 0 0 0.48 522.42 118.9)">
 									</image>
 								</g>
-								<g style="clip-path:url(#SVGID_148_);">
+								<g style="clip-path:url(#SVGID_8_);">
 									
 										<image style="overflow:visible;" width="48" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAABRCAYAAACQX/VFAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAxdJREFUeNrsWYtuwyAMzBHSav//
@@ -1584,21 +832,21 @@ sVoQW7PXZ9BcxSKInEestkgtxixMaDoC0FscXwIMAHKRUdddhkeOAAAAAElFTkSuQmCC" transform=
 				<g>
 					<g>
 						<g>
-							<path class="st52" d="M559,176.6h20.6c1.4,0.3,2.1,0.9,2.1,2.1v0.3c0,1.2-0.8,1.8-2.4,2h-7.7v25.2c0,1.1-0.7,1.8-2.2,2.1
-								h-0.1c-1.2,0-2-0.7-2.2-2.2V181h-7.8c-1.5-0.3-2.3-1-2.3-2.3C557.3,177.3,558,176.6,559,176.6z"/>
+							<path class="st7" d="M559,176.6h20.6c1.4,0.3,2.1,0.9,2.1,2.1v0.3c0,1.2-0.8,1.8-2.4,2h-7.7v25.2c0,1.1-0.7,1.8-2.2,2.1h-0.1
+								c-1.2,0-2-0.7-2.2-2.2V181h-7.8c-1.5-0.3-2.3-1-2.3-2.3C557.3,177.3,558,176.6,559,176.6z"/>
 						</g>
 					</g>
 					<g>
 						<g>
 							<g>
 								<defs>
-									<path id="SVGID_149_" d="M560.1,176h20.6c1.4,0.3,2.1,0.9,2.1,2.1v0.3c0,1.2-0.8,1.8-2.4,2h-7.7v25.2
-										c0,1.1-0.7,1.8-2.2,2.1h-0.1c-1.2,0-2-0.7-2.2-2.2v-25.1h-7.8c-1.5-0.3-2.3-1-2.3-2.3C558.3,176.7,559,176,560.1,176z"/>
+									<path id="SVGID_9_" d="M560.1,176h20.6c1.4,0.3,2.1,0.9,2.1,2.1v0.3c0,1.2-0.8,1.8-2.4,2h-7.7v25.2c0,1.1-0.7,1.8-2.2,2.1
+										h-0.1c-1.2,0-2-0.7-2.2-2.2v-25.1h-7.8c-1.5-0.3-2.3-1-2.3-2.3C558.3,176.7,559,176,560.1,176z"/>
 								</defs>
-								<clipPath id="SVGID_150_">
-									<use xlink:href="#SVGID_149_"  style="overflow:visible;"/>
+								<clipPath id="SVGID_10_">
+									<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
 								</clipPath>
-								<g style="clip-path:url(#SVGID_150_);">
+								<g style="clip-path:url(#SVGID_10_);">
 									
 										<image style="overflow:visible;" width="53" height="67" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAABFCAYAAAAB8xWyAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAxJJREFUeNrsWotu6yAMxcFU+//f
@@ -1629,12 +877,12 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 		<g>
 			<g>
 				<g>
-					<path class="st51" d="M264.2,141.7c1.8,3.6,2.7,7.7,2.7,12.2c0,4.5-0.9,8.5-2.7,12.1c-1.8,3.6-4.1,6.5-6.9,8.6
+					<path class="st6" d="M264.2,141.7c1.8,3.6,2.7,7.7,2.7,12.2c0,4.5-0.9,8.5-2.7,12.1c-1.8,3.6-4.1,6.5-6.9,8.6
 						c-5.7,4.4-11.6,6.6-17.8,6.6h-12.9v11.7c0,1.6-0.1,2.8-0.2,3.6c-0.1,0.8-0.4,1.7-1,2.7c-1,1.9-3.6,2.8-8.1,2.8
 						c-4.8,0-7.6-1.3-8.5-3.8c-0.4-1.2-0.6-3-0.6-5.4v-57.3c0-1.6,0.1-2.8,0.2-3.6c0.1-0.8,0.4-1.7,1-2.7c1-1.9,3.6-2.8,8-2.8h22.1
 						c6.1,0,11.9,2.2,17.6,6.6C260.1,135.2,262.4,138.1,264.2,141.7z M245.7,160.7c2-1.5,3-3.8,3-6.8c0-3-1-5.3-3-6.9
 						c-2-1.5-4.1-2.3-6.2-2.3h-12.9V163h13C241.7,163,243.7,162.2,245.7,160.7z"/>
-					<path class="st53" d="M217.4,209.5c-10.9,0-14.5-5.5-15.6-8.9c-0.7-2-1-4.5-1-7.8v-57.3c0-2,0.1-3.4,0.2-4.5
+					<path class="st8" d="M217.4,209.5c-10.9,0-14.5-5.5-15.6-8.9c-0.7-2-1-4.5-1-7.8v-57.3c0-2,0.1-3.4,0.2-4.5
 						c0.2-1.7,0.8-3.4,1.8-5.3c2.3-4.5,7.3-6.8,14.7-6.8h22.1c7.7,0,15.2,2.7,22.2,8.2c3.7,2.8,6.8,6.6,9.1,11.3l0,0
 						c2.3,4.7,3.5,9.9,3.5,15.5c0,5.6-1.2,10.8-3.5,15.5c-2.3,4.7-5.4,8.4-9.1,11.3c-7,5.4-14.5,8.1-22.3,8.1h-5.4v4.1
 						c0,2-0.1,3.4-0.2,4.5c-0.2,1.7-0.8,3.4-1.8,5.3C229.8,207.2,224.8,209.5,217.4,209.5z M218.8,195.7
@@ -1647,11 +895,11 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 						c0.5,0,1.1-0.4,1.5-0.7c0-0.1,0.1-0.4,0.1-0.9c0-0.6-0.1-0.9-0.1-1c-0.6-0.4-1.1-0.7-1.5-0.7h-5.4V155.5z"/>
 				</g>
 				<g>
-					<path class="st51" d="M289.1,131.2c0-1.6,0.1-2.8,0.2-3.6c0.1-0.8,0.4-1.7,0.9-2.7c1-1.9,3.6-2.8,8-2.8c4.2,0,6.8,0.9,7.8,2.8
+					<path class="st6" d="M289.1,131.2c0-1.6,0.1-2.8,0.2-3.6c0.1-0.8,0.4-1.7,0.9-2.7c1-1.9,3.6-2.8,8-2.8c4.2,0,6.8,0.9,7.8,2.8
 						c0.6,1,0.9,2,1,2.8c0.1,0.8,0.2,2,0.2,3.6v47.8c0,2.5,0.2,4,0.6,4.7c0.4,0.7,1.3,1,2.7,1c1.4,0,2.4,0.1,2.8,0.2
 						c0.5,0.1,1.1,0.4,1.8,0.9c1.4,0.9,2.1,3.3,2.1,7.3c0,4.3-0.7,7-2.1,7.9c-1.8,1.2-6.1,1.4-12.8,0.6c-5.3-0.7-8.7-2.4-10.3-5.3
 						c-1.9-3.4-2.9-8.7-2.9-16.1V131.2z"/>
-					<path class="st53" d="M309.2,209.7c-2.2,0-4.8-0.2-7.8-0.6c-7.8-1-13.2-4.1-16-9c-2.6-4.5-3.8-11-3.8-19.8v-49.1
+					<path class="st8" d="M309.2,209.7c-2.2,0-4.8-0.2-7.8-0.6c-7.8-1-13.2-4.1-16-9c-2.6-4.5-3.8-11-3.8-19.8v-49.1
 						c0-2,0.1-3.4,0.2-4.5c0.2-1.6,0.7-3.2,1.5-4.9l0.1-0.3c2.4-4.5,7.3-6.8,14.7-6.8c7.1,0,12,2.2,14.4,6.7l0.1,0.1
 						c1,1.9,1.6,3.6,1.8,5.4c0.1,1.1,0.2,2.6,0.2,4.5v46.2c0.1,0,0.2,0,0.3,0.1c1.4,0.3,2.9,1,4.4,2c4.8,3.2,5.4,9.3,5.4,13.5
 						c0,4.5-0.5,10.8-5.3,14.1C316.9,208.9,313.8,209.7,309.2,209.7z M296.6,129.7c0,0.4,0,0.9,0,1.5v49.1c0,8.2,1.3,11.4,1.9,12.4
@@ -1660,14 +908,14 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 						L311.5,194.5L311.5,194.5z M299.5,128.6C299.5,128.6,299.5,128.6,299.5,128.6C299.5,128.6,299.5,128.6,299.5,128.6z"/>
 				</g>
 				<g>
-					<path class="st51" d="M373.6,153.5c0.4-3.9,3.1-5.8,8.2-5.8c2.7,0,4.7,0.2,6,0.6c1.3,0.4,2.2,1.1,2.7,2.2
-						c0.5,1,0.8,1.9,0.9,2.7c0.1,0.8,0.2,2,0.2,3.6v36.1c0,1.6-0.1,2.8-0.2,3.6c-0.1,0.8-0.4,1.7-0.9,2.7c-1,1.8-3.3,2.7-7.1,2.7
-						c-3.8,0-6.3-0.5-7.5-1.4c-1.3-0.9-2-2.3-2.2-4.1c-2.5,3.6-6.8,5.5-12.7,5.5c-6,0-11.5-2.7-16.6-8.2c-5.1-5.4-7.6-11.7-7.6-18.9
+					<path class="st6" d="M373.6,153.5c0.4-3.9,3.1-5.8,8.2-5.8c2.7,0,4.7,0.2,6,0.6c1.3,0.4,2.2,1.1,2.7,2.2c0.5,1,0.8,1.9,0.9,2.7
+						c0.1,0.8,0.2,2,0.2,3.6v36.1c0,1.6-0.1,2.8-0.2,3.6c-0.1,0.8-0.4,1.7-0.9,2.7c-1,1.8-3.3,2.7-7.1,2.7c-3.8,0-6.3-0.5-7.5-1.4
+						c-1.3-0.9-2-2.3-2.2-4.1c-2.5,3.6-6.8,5.5-12.7,5.5c-6,0-11.5-2.7-16.6-8.2c-5.1-5.4-7.6-11.7-7.6-18.9
 						c0-7.2,2.6-13.5,7.7-18.9c5.1-5.4,10.8-8.1,16.9-8.1c2.3,0,4.5,0.4,6.4,1.2c1.9,0.8,3.3,1.6,4,2.3
 						C372.5,152.1,373.1,152.8,373.6,153.5z M354.8,174.9c0,2.3,0.9,4.3,2.7,6.1c1.8,1.8,4,2.7,6.5,2.7c2.5,0,4.7-0.9,6.3-2.8
 						c1.7-1.9,2.5-3.9,2.5-6.1c0-2.2-0.8-4.3-2.4-6.2c-1.6-1.9-3.8-2.9-6.5-2.9c-2.7,0-4.9,1-6.6,2.9
 						C355.6,170.6,354.8,172.7,354.8,174.9z"/>
-					<path class="st53" d="M383.4,209.4c-5.1,0-8.6-0.7-11.2-2.3c-2.9,1.4-6.6,2.3-11.3,2.3c-8.1,0-15.5-3.5-22-10.5
+					<path class="st8" d="M383.4,209.4c-5.1,0-8.6-0.7-11.2-2.3c-2.9,1.4-6.6,2.3-11.3,2.3c-8.1,0-15.5-3.5-22-10.5
 						c-6.4-6.8-9.7-14.9-9.7-24.1c0-9.1,3.3-17.2,9.8-24.1c6.6-6.9,14.1-10.4,22.3-10.4c3.4,0,6.5,0.6,9.4,1.8
 						c0.5,0.2,0.9,0.4,1.4,0.6c2.4-1.6,5.6-2.6,9.7-2.6c3.5,0,6.2,0.3,8.2,1c4.1,1.3,6.2,4,7.2,6c0.9,1.8,1.4,3.5,1.7,5.1
 						c0.1,1.1,0.2,2.6,0.2,4.5v36.1c0,2-0.1,3.4-0.2,4.5c-0.2,1.6-0.7,3.2-1.5,4.9l-0.2,0.4C395.5,205.8,391.8,209.4,383.4,209.4z
@@ -1681,12 +929,12 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 						C364.6,173.4,364.5,173.3,363.9,173.3z"/>
 				</g>
 				<g>
-					<path class="st51" d="M463.8,148.3c4.1,1.8,6.1,4,6.1,6.5c0,1.2-0.3,2.4-0.8,3.5c-0.6,1.1-0.8,1.7-0.8,1.8l-27,60.5
+					<path class="st6" d="M463.8,148.3c4.1,1.8,6.1,4,6.1,6.5c0,1.2-0.3,2.4-0.8,3.5c-0.6,1.1-0.8,1.7-0.8,1.8l-27,60.5
 						c-0.6,1.3-1,2.3-1.4,3c-0.4,0.7-1,1.3-1.8,2c-0.8,0.6-1.9,0.9-3.1,0.9s-3.1-0.5-5.5-1.5c-4.1-1.8-6.1-3.9-6.1-6.4
 						c0-1.6,3.3-9.5,9.9-23.6l-20.5-34.6c-1.4-2.3-2.1-4-2.1-5.1c0-2.2,1.9-4.4,5.6-6.6c2.3-1.4,4.2-2.1,5.5-2.1
 						c1.3,0,2.4,0.3,3.2,0.8c0.8,0.6,1.4,1.1,1.8,1.7c0.4,0.6,2.3,3.8,5.7,9.6c3.4,5.8,6.7,11.2,9.8,16.3c0.3-1.1,2.2-5.3,5.6-12.7
 						c3.4-7.4,5.2-11.3,5.4-11.8c0.2-0.5,0.6-1.1,1.2-1.8c0.9-1.2,2.1-1.8,3.8-1.8C459.7,146.9,461.6,147.4,463.8,148.3z"/>
-					<path class="st53" d="M434.9,234c-2.3,0-5-0.7-8.4-2.2c-8.8-3.9-10.6-9.4-10.6-13.3c0-1.9,0-3.9,8.9-23.2l-18.5-31.2
+					<path class="st8" d="M434.9,234c-2.3,0-5-0.7-8.4-2.2c-8.8-3.9-10.6-9.4-10.6-13.3c0-1.9,0-3.9,8.9-23.2l-18.5-31.2
 						c-2.1-3.5-3.1-6.3-3.1-8.9c0-5,3.1-9.4,9.3-13.1c3.6-2.1,6.6-3.1,9.3-3.1c2.8,0,5.3,0.7,7.4,2.1c1.7,1.1,3,2.4,3.9,3.9
 						c0.2,0.3,0.7,1.1,5.9,9.9c0.7,1.3,1.5,2.5,2.2,3.7c4.9-10.8,5.2-11.3,5.3-11.6c0.5-0.9,1.1-1.9,2-3c2.3-3,5.8-4.6,9.7-4.6
 						c2.7,0,5.5,0.7,8.7,2.1l0,0c8.7,3.9,10.6,9.4,10.6,13.4c0,2.4-0.5,4.7-1.6,6.9c-0.1,0.3-0.2,0.5-0.3,0.7l-27.4,61.2
@@ -1699,12 +947,12 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 			</g>
 			<g>
 				<g>
-					<path class="st51" d="M648.2,126.3h57.4c2.2,0,3.8,0.3,4.9,0.8c1,0.5,1.7,1.3,2.1,2.4c0.3,1.1,0.5,2.5,0.5,4.3
+					<path class="st6" d="M648.2,126.3h57.4c2.2,0,3.8,0.3,4.9,0.8c1,0.5,1.7,1.3,2.1,2.4c0.3,1.1,0.5,2.5,0.5,4.3
 						c0,1.8-0.2,3.2-0.5,4.3c-0.3,1.1-0.9,1.8-1.8,2.2c-1.2,0.6-3,0.9-5.3,0.9h-19.7v51.9c0,1.6,0,2.8-0.2,3.5
 						c-0.1,0.8-0.4,1.6-0.9,2.6c-0.5,1-1.4,1.7-2.7,2.1c-1.3,0.4-3,0.6-5.2,0.6c-2.1,0-3.8-0.2-5.1-0.6c-1.3-0.4-2.2-1.1-2.7-2.1
 						c-0.5-1-0.8-1.9-0.9-2.7c-0.1-0.8-0.2-2-0.2-3.6v-51.8h-19.8c-2.2,0-3.8-0.3-4.9-0.8c-1-0.5-1.7-1.3-2.1-2.4
 						c-0.3-1.1-0.5-2.5-0.5-4.3c0-1.8,0.2-3.2,0.5-4.3c0.3-1.1,0.9-1.8,1.8-2.2C644.1,126.6,645.9,126.3,648.2,126.3z"/>
-					<path class="st53" d="M676.7,209.6c-2.9,0-5.4-0.3-7.4-1c-3.2-1-5.6-3-7.1-5.8c-0.9-1.8-1.5-3.5-1.7-5.1
+					<path class="st8" d="M676.7,209.6c-2.9,0-5.4-0.3-7.4-1c-3.2-1-5.6-3-7.1-5.8c-0.9-1.8-1.5-3.5-1.7-5.1
 						c-0.1-1.2-0.2-2.6-0.2-4.5v-44.3h-12.3c-3.5,0-6.1-0.5-8.2-1.6c-2.9-1.4-4.9-3.9-5.9-6.9c-0.6-1.8-0.9-4-0.9-6.6
 						c0-2.6,0.3-4.8,0.9-6.6c1.2-3.8,3.7-5.7,5.5-6.6c2.3-1.2,5.1-1.7,8.6-1.7h57.4c3.5,0,6.1,0.5,8.2,1.6c2.8,1.4,4.9,3.9,5.9,6.9
 						c0.6,1.9,0.9,4,0.9,6.6c0,2.6-0.3,4.8-0.9,6.6c-1.2,3.8-3.7,5.7-5.5,6.6c-2.3,1.2-5.1,1.7-8.6,1.7h-12.2v44.4
@@ -1714,27 +962,27 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 						C675.4,193.7,675.4,194.2,675.4,194.5z M707.4,134L707.4,134L707.4,134z"/>
 				</g>
 				<g>
-					<path class="st51" d="M751.1,137.6c-0.5,1-1.4,1.7-2.7,2.1c-1.3,0.4-3,0.6-5.2,0.6c-2.2,0-3.9-0.2-5.2-0.6
+					<path class="st6" d="M751.1,137.6c-0.5,1-1.4,1.7-2.7,2.1c-1.3,0.4-3,0.6-5.2,0.6c-2.2,0-3.9-0.2-5.2-0.6
 						c-1.3-0.4-2.2-1.1-2.7-2.2c-0.5-1-0.8-1.9-0.9-2.7c-0.1-0.8-0.2-2-0.2-3.6c0-1.6,0-2.8,0.2-3.6c0.1-0.8,0.4-1.7,0.9-2.6
 						c1-1.9,3.6-2.8,8.1-2.8c4.3,0,7,0.9,7.8,2.8c0.6,1,0.9,1.9,1,2.7c0.1,0.8,0.2,2,0.2,3.6c0,1.6-0.1,2.8-0.2,3.6
 						C751.9,135.7,751.6,136.6,751.1,137.6z M734.1,156.8c0-1.6,0-2.8,0.2-3.6c0.1-0.8,0.4-1.7,0.9-2.7c1-1.8,3.6-2.7,8.1-2.7
 						c3.3,0,5.6,0.6,7,1.8c1.2,1,1.8,2.4,1.9,4.4c0.1,0.7,0.1,1.7,0.1,3v36.1c0,1.6-0.1,2.8-0.2,3.6c-0.1,0.8-0.4,1.7-1,2.7
 						c-0.9,1.8-3.5,2.7-7.9,2.7c-4.3,0-7-0.9-7.9-2.8c-0.5-1-0.8-1.9-0.9-2.7c-0.1-0.8-0.2-2-0.2-3.6V156.8z"/>
-					<path class="st53" d="M743.1,209.6c-7.3,0-12.3-2.3-14.6-6.8l-0.1-0.3c-0.8-1.7-1.3-3.3-1.5-4.8c-0.2-1.1-0.2-2.5-0.2-4.6
-						v-36.2c0-2,0.1-3.4,0.2-4.5c0.2-1.6,0.7-3.2,1.5-4.9l0.2-0.4c0.6-1.1,1.3-2,2.2-2.9c-1.1-1-1.8-2.2-2.3-3.1
-						c-0.9-1.8-1.4-3.5-1.7-5.1c-0.1-1.1-0.2-2.6-0.2-4.5c0-2,0.1-3.4,0.2-4.5c0.2-1.6,0.7-3.3,1.6-5l0.1-0.1
-						c2.4-4.5,7.3-6.8,14.7-6.8c7.4,0,12.3,2.3,14.5,6.9c1,1.8,1.5,3.5,1.7,5.2c0.1,1.1,0.2,2.6,0.2,4.5c0,2-0.1,3.4-0.2,4.5
-						c-0.2,1.7-0.8,3.3-1.7,5.2c-0.5,0.9-1.2,2-2.3,3.1c1.8,1.6,3.9,4.6,4.1,9.3c0.1,0.9,0.1,2.1,0.1,3.5v36.1c0,2-0.1,3.4-0.2,4.5
-						c-0.2,1.7-0.8,3.4-1.8,5.2C755.4,207.3,750.5,209.6,743.1,209.6z M744.6,195.7C744.6,195.7,744.6,195.7,744.6,195.7
-						C744.6,195.7,744.6,195.7,744.6,195.7z M741.7,194.5c0.4,0,0.9,0.1,1.4,0.1c0.6,0,1.1,0,1.5-0.1c0-0.4,0-0.8,0-1.4V157
-						c0-0.7,0-1.2,0-1.6c-0.4,0-0.8-0.1-1.4-0.1c-0.6,0-1.1,0-1.5,0.1c0,0.4,0,0.8,0,1.4V193C741.6,193.6,741.6,194.1,741.7,194.5z
-						 M745.8,155.6L745.8,155.6L745.8,155.6z M744.4,134.2C744.4,134.2,744.4,134.2,744.4,134.2L744.4,134.2z M744.6,134
-						C744.6,134,744.6,134,744.6,134C744.6,134,744.6,134,744.6,134z M741.7,132.8c0.8,0.1,2.2,0.1,3,0c0-0.4,0-0.8,0-1.4
-						c0-0.6,0-1.1,0-1.5c-0.4,0-0.9-0.1-1.4-0.1c-0.6,0-1.1,0-1.5,0.1c0,0.4,0,0.8,0,1.4C741.6,131.9,741.6,132.4,741.7,132.8z
-						 M744.6,128.8C744.6,128.8,744.6,128.8,744.6,128.8C744.6,128.8,744.6,128.8,744.6,128.8z"/>
+					<path class="st8" d="M743.1,209.6c-7.3,0-12.3-2.3-14.6-6.8l-0.1-0.3c-0.8-1.7-1.3-3.3-1.5-4.8c-0.2-1.1-0.2-2.5-0.2-4.6v-36.2
+						c0-2,0.1-3.4,0.2-4.5c0.2-1.6,0.7-3.2,1.5-4.9l0.2-0.4c0.6-1.1,1.3-2,2.2-2.9c-1.1-1-1.8-2.2-2.3-3.1c-0.9-1.8-1.4-3.5-1.7-5.1
+						c-0.1-1.1-0.2-2.6-0.2-4.5c0-2,0.1-3.4,0.2-4.5c0.2-1.6,0.7-3.3,1.6-5l0.1-0.1c2.4-4.5,7.3-6.8,14.7-6.8
+						c7.4,0,12.3,2.3,14.5,6.9c1,1.8,1.5,3.5,1.7,5.2c0.1,1.1,0.2,2.6,0.2,4.5c0,2-0.1,3.4-0.2,4.5c-0.2,1.7-0.8,3.3-1.7,5.2
+						c-0.5,0.9-1.2,2-2.3,3.1c1.8,1.6,3.9,4.6,4.1,9.3c0.1,0.9,0.1,2.1,0.1,3.5v36.1c0,2-0.1,3.4-0.2,4.5c-0.2,1.7-0.8,3.4-1.8,5.2
+						C755.4,207.3,750.5,209.6,743.1,209.6z M744.6,195.7C744.6,195.7,744.6,195.7,744.6,195.7C744.6,195.7,744.6,195.7,744.6,195.7
+						z M741.7,194.5c0.4,0,0.9,0.1,1.4,0.1c0.6,0,1.1,0,1.5-0.1c0-0.4,0-0.8,0-1.4V157c0-0.7,0-1.2,0-1.6c-0.4,0-0.8-0.1-1.4-0.1
+						c-0.6,0-1.1,0-1.5,0.1c0,0.4,0,0.8,0,1.4V193C741.6,193.6,741.6,194.1,741.7,194.5z M745.8,155.6L745.8,155.6L745.8,155.6z
+						 M744.4,134.2C744.4,134.2,744.4,134.2,744.4,134.2L744.4,134.2z M744.6,134C744.6,134,744.6,134,744.6,134
+						C744.6,134,744.6,134,744.6,134z M741.7,132.8c0.8,0.1,2.2,0.1,3,0c0-0.4,0-0.8,0-1.4c0-0.6,0-1.1,0-1.5
+						c-0.4,0-0.9-0.1-1.4-0.1c-0.6,0-1.1,0-1.5,0.1c0,0.4,0,0.8,0,1.4C741.6,131.9,741.6,132.4,741.7,132.8z M744.6,128.8
+						C744.6,128.8,744.6,128.8,744.6,128.8C744.6,128.8,744.6,128.8,744.6,128.8z"/>
 				</g>
 				<g>
-					<path class="st51" d="M793.7,154.9c3.2-4.9,7.1-7.3,11.7-7.3c7,0,12.2,3,15.7,9c0.8-1,1.7-2.1,2.7-3.3c1.1-1.1,2.8-2.4,5.1-3.7
+					<path class="st6" d="M793.7,154.9c3.2-4.9,7.1-7.3,11.7-7.3c7,0,12.2,3,15.7,9c0.8-1,1.7-2.1,2.7-3.3c1.1-1.1,2.8-2.4,5.1-3.7
 						c2.3-1.3,4.8-2,7.2-2c5.5,0,10.1,2.1,13.8,6.3c3.7,4.2,5.6,11.2,5.6,21V193c0,1.6-0.1,2.8-0.2,3.6c-0.1,0.8-0.4,1.7-1,2.7
 						c-0.9,1.9-3.5,2.8-7.9,2.8c-4.3,0-7-1-7.9-2.9c-0.5-1-0.8-1.9-0.9-2.7c-0.1-0.8-0.2-2-0.2-3.6v-18.1c0-6-2.1-9-6.4-9
 						c-2.4,0-4,0.8-4.9,2.4c-0.9,1.6-1.3,3.8-1.3,6.7V193c0,1.7-0.1,2.9-0.2,3.6c-0.1,0.8-0.4,1.7-1,2.7c-1,1.9-3.6,2.8-8.1,2.8
@@ -1742,7 +990,7 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 						c0,1.6-0.1,2.8-0.2,3.6c-0.1,0.8-0.4,1.7-1,2.7c-1,1.8-3.7,2.7-8.1,2.7c-4.3,0-7-0.9-7.9-2.8c-0.5-1-0.8-1.9-0.9-2.7
 						c-0.1-0.8-0.2-2-0.2-3.6v-36.3c0-1.6,0.1-2.8,0.2-3.6c0.1-0.8,0.4-1.7,1-2.6c1-1.9,3.5-2.8,7.3-2.8c3.9,0,6.4,0.6,7.5,1.9
 						C793.1,150.8,793.7,152.6,793.7,154.9z"/>
-					<path class="st53" d="M846.4,209.6c-7.4,0-12.3-2.4-14.7-7.1l-0.1-0.2c-0.2-0.4-0.4-0.8-0.5-1.2c-0.2,0.5-0.5,1.1-0.8,1.7
+					<path class="st8" d="M846.4,209.6c-7.4,0-12.3-2.4-14.7-7.1l-0.1-0.2c-0.2-0.4-0.4-0.8-0.5-1.2c-0.2,0.5-0.5,1.1-0.8,1.7
 						c-2.3,4.5-7.3,6.8-14.7,6.8c-7.4,0-12.3-2.4-14.7-7.1l-0.1-0.2c-0.2-0.4-0.4-0.8-0.5-1.2c-0.2,0.6-0.5,1.1-0.8,1.7l-0.1,0.2
 						c-2.5,4.3-7.4,6.4-14.6,6.4c-7.3,0-12.3-2.3-14.6-6.8l-0.1-0.3c-0.8-1.7-1.3-3.3-1.5-4.9c-0.2-1.2-0.2-2.6-0.2-4.6v-36.3
 						c0-1.9,0.1-3.4,0.2-4.5c0.2-1.8,0.9-3.6,1.9-5.4c1.7-3,5.4-6.6,13.9-6.6c3.2,0,7.6,0.3,11.1,2.6c3.6-2.1,7.1-2.7,9.9-2.7
@@ -1758,12 +1006,12 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 						C783.6,154.1,783.6,154.2,783.6,154.1C783.6,154.2,783.6,154.1,783.6,154.1z M786.1,154.2L786.1,154.2L786.1,154.2z"/>
 				</g>
 				<g>
-					<path class="st51" d="M931.7,168.4c0,4.2-1,7.4-3.1,9.4c-2.1,2-4.4,3-7,3h-24.5c0,1.9,1.1,3.5,3.4,4.8c2.3,1.3,4.5,2,6.8,2
+					<path class="st6" d="M931.7,168.4c0,4.2-1,7.4-3.1,9.4c-2.1,2-4.4,3-7,3h-24.5c0,1.9,1.1,3.5,3.4,4.8c2.3,1.3,4.5,2,6.8,2
 						c4,0,7.1-0.4,9.4-1.2l1.1-0.4c1.7-0.8,3-1.1,4.1-1.1c2.2,0,4.1,1.5,5.7,4.6c0.9,1.9,1.3,3.4,1.3,4.7c0,6.1-7.3,9.2-22,9.2
 						c-5.1,0-9.6-0.9-13.6-2.6c-4-1.8-7-4.1-9.2-7c-4.3-5.6-6.5-11.8-6.5-18.7c0-8.7,2.8-15.6,8.4-20.8c5.6-5.2,12.6-7.8,21-7.8
 						c9.6,0,16.6,3.4,21.1,10.1C930.5,160.3,931.7,164.2,931.7,168.4z M909.9,171.4c2.6,0,3.9-1.1,3.9-3.3c0-1.6-0.6-2.9-1.8-3.8
 						c-1.2-1-2.9-1.4-5.2-1.4c-2.2,0-4.5,0.9-6.7,2.7c-2.2,1.8-3.3,3.8-3.3,5.8H909.9z"/>
-					<path class="st53" d="M907,210.9c-6.1,0-11.7-1.1-16.6-3.3c-5.1-2.3-9.2-5.4-12.2-9.3c-5.3-6.8-8-14.7-8-23.2
+					<path class="st8" d="M907,210.9c-6.1,0-11.7-1.1-16.6-3.3c-5.1-2.3-9.2-5.4-12.2-9.3c-5.3-6.8-8-14.7-8-23.2
 						c0-10.8,3.6-19.7,10.8-26.3c7-6.5,15.8-9.8,26.1-9.8c15.2,0,23.2,7.3,27.3,13.5c3.2,4.9,4.8,10.2,4.8,15.9
 						c0,6.3-1.8,11.3-5.4,14.8c-0.2,0.2-0.5,0.4-0.7,0.7c0.4,0.7,0.9,1.4,1.3,2.2l0.1,0.2c1.4,2.9,2.1,5.5,2.1,8
 						c0,6.1-3.7,11.1-10.1,13.8C921.7,210,915.4,210.9,907,210.9z M907.1,154.1c-6.5,0-11.7,1.9-15.9,5.8c-4,3.7-6,8.7-6,15.3
@@ -1777,7 +1025,7 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 		<g>
 			<g>
 				<g>
-					<path class="st51" d="M264.2,141.7c1.8,3.6,2.7,7.7,2.7,12.2c0,4.5-0.9,8.5-2.7,12.1c-1.8,3.6-4.1,6.5-6.9,8.6
+					<path class="st6" d="M264.2,141.7c1.8,3.6,2.7,7.7,2.7,12.2c0,4.5-0.9,8.5-2.7,12.1c-1.8,3.6-4.1,6.5-6.9,8.6
 						c-5.7,4.4-11.6,6.6-17.8,6.6h-12.9v11.7c0,1.6-0.1,2.8-0.2,3.6c-0.1,0.8-0.4,1.7-1,2.7c-1,1.9-3.6,2.8-8.1,2.8
 						c-4.8,0-7.6-1.3-8.5-3.8c-0.4-1.2-0.6-3-0.6-5.4v-57.3c0-1.6,0.1-2.8,0.2-3.6c0.1-0.8,0.4-1.7,1-2.7c1-1.9,3.6-2.8,8-2.8h22.1
 						c6.1,0,11.9,2.2,17.6,6.6C260.1,135.2,262.4,138.1,264.2,141.7z M245.7,160.7c2-1.5,3-3.8,3-6.8c0-3-1-5.3-3-6.9
@@ -1793,7 +1041,7 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 						c0.9-0.7,2-1.9,2-4.8c0-2.3-0.6-3.8-2-4.9c-1.6-1.2-3.1-1.8-4.7-1.8h-10.4V160.5z"/>
 				</g>
 				<g>
-					<path class="st51" d="M289.1,131.2c0-1.6,0.1-2.8,0.2-3.6c0.1-0.8,0.4-1.7,0.9-2.7c1-1.9,3.6-2.8,8-2.8c4.2,0,6.8,0.9,7.8,2.8
+					<path class="st6" d="M289.1,131.2c0-1.6,0.1-2.8,0.2-3.6c0.1-0.8,0.4-1.7,0.9-2.7c1-1.9,3.6-2.8,8-2.8c4.2,0,6.8,0.9,7.8,2.8
 						c0.6,1,0.9,2,1,2.8c0.1,0.8,0.2,2,0.2,3.6v47.8c0,2.5,0.2,4,0.6,4.7c0.4,0.7,1.3,1,2.7,1c1.4,0,2.4,0.1,2.8,0.2
 						c0.5,0.1,1.1,0.4,1.8,0.9c1.4,0.9,2.1,3.3,2.1,7.3c0,4.3-0.7,7-2.1,7.9c-1.8,1.2-6.1,1.4-12.8,0.6c-5.3-0.7-8.7-2.4-10.3-5.3
 						c-1.9-3.4-2.9-8.7-2.9-16.1V131.2z"/>
@@ -1806,9 +1054,9 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 						c0-1.8-0.1-2.8-0.1-3.3c0-0.4-0.2-1-0.7-1.9C303.3,125.2,301.2,124.6,298.1,124.6z"/>
 				</g>
 				<g>
-					<path class="st51" d="M373.6,153.5c0.4-3.9,3.1-5.8,8.2-5.8c2.7,0,4.7,0.2,6,0.6c1.3,0.4,2.2,1.1,2.7,2.2
-						c0.5,1,0.8,1.9,0.9,2.7c0.1,0.8,0.2,2,0.2,3.6v36.1c0,1.6-0.1,2.8-0.2,3.6c-0.1,0.8-0.4,1.7-0.9,2.7c-1,1.8-3.3,2.7-7.1,2.7
-						c-3.8,0-6.3-0.5-7.5-1.4c-1.3-0.9-2-2.3-2.2-4.1c-2.5,3.6-6.8,5.5-12.7,5.5c-6,0-11.5-2.7-16.6-8.2c-5.1-5.4-7.6-11.7-7.6-18.9
+					<path class="st6" d="M373.6,153.5c0.4-3.9,3.1-5.8,8.2-5.8c2.7,0,4.7,0.2,6,0.6c1.3,0.4,2.2,1.1,2.7,2.2c0.5,1,0.8,1.9,0.9,2.7
+						c0.1,0.8,0.2,2,0.2,3.6v36.1c0,1.6-0.1,2.8-0.2,3.6c-0.1,0.8-0.4,1.7-0.9,2.7c-1,1.8-3.3,2.7-7.1,2.7c-3.8,0-6.3-0.5-7.5-1.4
+						c-1.3-0.9-2-2.3-2.2-4.1c-2.5,3.6-6.8,5.5-12.7,5.5c-6,0-11.5-2.7-16.6-8.2c-5.1-5.4-7.6-11.7-7.6-18.9
 						c0-7.2,2.6-13.5,7.7-18.9c5.1-5.4,10.8-8.1,16.9-8.1c2.3,0,4.5,0.4,6.4,1.2c1.9,0.8,3.3,1.6,4,2.3
 						C372.5,152.1,373.1,152.8,373.6,153.5z M354.8,174.9c0,2.3,0.9,4.3,2.7,6.1c1.8,1.8,4,2.7,6.5,2.7c2.5,0,4.7-0.9,6.3-2.8
 						c1.7-1.9,2.5-3.9,2.5-6.1c0-2.2-0.8-4.3-2.4-6.2c-1.6-1.9-3.8-2.9-6.5-2.9c-2.7,0-4.9,1-6.6,2.9
@@ -1827,7 +1075,7 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 						c0-1.6-0.6-3.2-1.8-4.6C367.4,168.9,365.9,168.3,363.9,168.3z"/>
 				</g>
 				<g>
-					<path class="st51" d="M463.8,148.3c4.1,1.8,6.1,4,6.1,6.5c0,1.2-0.3,2.4-0.8,3.5c-0.6,1.1-0.8,1.7-0.8,1.8l-27,60.5
+					<path class="st6" d="M463.8,148.3c4.1,1.8,6.1,4,6.1,6.5c0,1.2-0.3,2.4-0.8,3.5c-0.6,1.1-0.8,1.7-0.8,1.8l-27,60.5
 						c-0.6,1.3-1,2.3-1.4,3c-0.4,0.7-1,1.3-1.8,2c-0.8,0.6-1.9,0.9-3.1,0.9s-3.1-0.5-5.5-1.5c-4.1-1.8-6.1-3.9-6.1-6.4
 						c0-1.6,3.3-9.5,9.9-23.6l-20.5-34.6c-1.4-2.3-2.1-4-2.1-5.1c0-2.2,1.9-4.4,5.6-6.6c2.3-1.4,4.2-2.1,5.5-2.1
 						c1.3,0,2.4,0.3,3.2,0.8c0.8,0.6,1.4,1.1,1.8,1.7c0.4,0.6,2.3,3.8,5.7,9.6c3.4,5.8,6.7,11.2,9.8,16.3c0.3-1.1,2.2-5.3,5.6-12.7
@@ -1846,7 +1094,7 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 			</g>
 			<g>
 				<g>
-					<path class="st51" d="M648.2,126.3h57.4c2.2,0,3.8,0.3,4.9,0.8c1,0.5,1.7,1.3,2.1,2.4c0.3,1.1,0.5,2.5,0.5,4.3
+					<path class="st6" d="M648.2,126.3h57.4c2.2,0,3.8,0.3,4.9,0.8c1,0.5,1.7,1.3,2.1,2.4c0.3,1.1,0.5,2.5,0.5,4.3
 						c0,1.8-0.2,3.2-0.5,4.3c-0.3,1.1-0.9,1.8-1.8,2.2c-1.2,0.6-3,0.9-5.3,0.9h-19.7v51.9c0,1.6,0,2.8-0.2,3.5
 						c-0.1,0.8-0.4,1.6-0.9,2.6c-0.5,1-1.4,1.7-2.7,2.1c-1.3,0.4-3,0.6-5.2,0.6c-2.1,0-3.8-0.2-5.1-0.6c-1.3-0.4-2.2-1.1-2.7-2.1
 						c-0.5-1-0.8-1.9-0.9-2.7c-0.1-0.8-0.2-2-0.2-3.6v-51.8h-19.8c-2.2,0-3.8-0.3-4.9-0.8c-1-0.5-1.7-1.3-2.1-2.4
@@ -1863,7 +1111,7 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 						z"/>
 				</g>
 				<g>
-					<path class="st51" d="M751.1,137.6c-0.5,1-1.4,1.7-2.7,2.1c-1.3,0.4-3,0.6-5.2,0.6c-2.2,0-3.9-0.2-5.2-0.6
+					<path class="st6" d="M751.1,137.6c-0.5,1-1.4,1.7-2.7,2.1c-1.3,0.4-3,0.6-5.2,0.6c-2.2,0-3.9-0.2-5.2-0.6
 						c-1.3-0.4-2.2-1.1-2.7-2.2c-0.5-1-0.8-1.9-0.9-2.7c-0.1-0.8-0.2-2-0.2-3.6c0-1.6,0-2.8,0.2-3.6c0.1-0.8,0.4-1.7,0.9-2.6
 						c1-1.9,3.6-2.8,8.1-2.8c4.3,0,7,0.9,7.8,2.8c0.6,1,0.9,1.9,1,2.7c0.1,0.8,0.2,2,0.2,3.6c0,1.6-0.1,2.8-0.2,3.6
 						C751.9,135.7,751.6,136.6,751.1,137.6z M734.1,156.8c0-1.6,0-2.8,0.2-3.6c0.1-0.8,0.4-1.7,0.9-2.7c1-1.8,3.6-2.7,8.1-2.7
@@ -1883,7 +1131,7 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 						c0.1-0.5,0.1-1.4,0.1-3.2c0-1.8-0.1-2.8-0.1-3.2c0-0.3-0.2-0.9-0.7-1.9C748.5,125.6,746.8,124.8,743.2,124.8z"/>
 				</g>
 				<g>
-					<path class="st51" d="M793.7,154.9c3.2-4.9,7.1-7.3,11.7-7.3c7,0,12.2,3,15.7,9c0.8-1,1.7-2.1,2.7-3.3c1.1-1.1,2.8-2.4,5.1-3.7
+					<path class="st6" d="M793.7,154.9c3.2-4.9,7.1-7.3,11.7-7.3c7,0,12.2,3,15.7,9c0.8-1,1.7-2.1,2.7-3.3c1.1-1.1,2.8-2.4,5.1-3.7
 						c2.3-1.3,4.8-2,7.2-2c5.5,0,10.1,2.1,13.8,6.3c3.7,4.2,5.6,11.2,5.6,21V193c0,1.6-0.1,2.8-0.2,3.6c-0.1,0.8-0.4,1.7-1,2.7
 						c-0.9,1.9-3.5,2.8-7.9,2.8c-4.3,0-7-1-7.9-2.9c-0.5-1-0.8-1.9-0.9-2.7c-0.1-0.8-0.2-2-0.2-3.6v-18.1c0-6-2.1-9-6.4-9
 						c-2.4,0-4,0.8-4.9,2.4c-0.9,1.6-1.3,3.8-1.3,6.7V193c0,1.7-0.1,2.9-0.2,3.6c-0.1,0.8-0.4,1.7-1,2.7c-1,1.9-3.6,2.8-8.1,2.8
@@ -1909,7 +1157,7 @@ GHySKcKFwYAydc6cW4CHRr7J/bV7tX8CDAASnE251O09oAAAAABJRU5ErkJggg==" transform="mat
 						C824.8,165.4,826.8,163.4,831,163.4z"/>
 				</g>
 				<g>
-					<path class="st51" d="M931.7,168.4c0,4.2-1,7.4-3.1,9.4c-2.1,2-4.4,3-7,3h-24.5c0,1.9,1.1,3.5,3.4,4.8c2.3,1.3,4.5,2,6.8,2
+					<path class="st6" d="M931.7,168.4c0,4.2-1,7.4-3.1,9.4c-2.1,2-4.4,3-7,3h-24.5c0,1.9,1.1,3.5,3.4,4.8c2.3,1.3,4.5,2,6.8,2
 						c4,0,7.1-0.4,9.4-1.2l1.1-0.4c1.7-0.8,3-1.1,4.1-1.1c2.2,0,4.1,1.5,5.7,4.6c0.9,1.9,1.3,3.4,1.3,4.7c0,6.1-7.3,9.2-22,9.2
 						c-5.1,0-9.6-0.9-13.6-2.6c-4-1.8-7-4.1-9.2-7c-4.3-5.6-6.5-11.8-6.5-18.7c0-8.7,2.8-15.6,8.4-20.8c5.6-5.2,12.6-7.8,21-7.8
 						c9.6,0,16.6,3.4,21.1,10.1C930.5,160.3,931.7,164.2,931.7,168.4z M909.9,171.4c2.6,0,3.9-1.1,3.9-3.3c0-1.6-0.6-2.9-1.8-3.8
