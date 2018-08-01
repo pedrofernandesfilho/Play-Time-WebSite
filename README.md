@@ -3,7 +3,7 @@ http://www.playtimearcade.com.br
 
 Locação, aluguel e venda de máquinas de diversão eletrônica, vídeo game e fliperama.
 
-Telefones: (11) 2452-8373 / (11) 9 9603-8923 (WhatsApp)
+Telefone: (11) 99603-8923 (WhatsApp)
 
 Nextel ID: 35\*7\*36202
 
