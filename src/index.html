@@ -8,27 +8,40 @@
     <title>Play Time Entretenimento</title>
     <style>
         @media (max-width: 350px) {
-            header img { content:url(./resources/images/header_small.svg) }
+            .imgHeaderSmall { display: block; }
+            .imgHeaderLarge { display: none; }
         }
         @media (min-width: 351px) {
-            header img { content:url(./resources/images/header_large.svg) }
-        }
-        .menucolor{
-                background-color: coral;
-        
+            .imgHeaderLarge { display: block; }
+            .imgHeaderSmall { display: none; }
         }
 
+        nav ul {
+            background-color: #0d2aa3
+        }
+        nav ul li a {
+            color: #fff;
+            font-weight: bold
+        }
+        nav ul li a:hover {
+            color: #f9e317
+        }
     </style>
 </head>
 <body>
     <!-- HEADER -->
-    <header class="container"><img alt="Play Time Enretenimento"></header>
+    <header class="container">
+        <img src="resources/images/header_large.svg" class="imgHeaderLarge">
+        <img src="resources/images/header_small.svg" class="imgHeaderSmall">
+    </header>
     <!-- MENU -->
-    <nav role="navigation" class="nav container sticky-top menucolor">
-        <a class="nav-link" href="#">MENU</a>
-        <a class="nav-link" href="#">Link 1</a>
-        <a class="nav-link" href="#">Link 2</a>
-        <a class="nav-link" href="#">Link 3</a>
+    <nav role="navigation" class="container sticky-top">
+        <ul class="nav">
+            <li class="nav-item"><a class="nav-link" href="#">MENU</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Link 1</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Link 2</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Link 3</a></li>
+        </ul>
     </nav>
     <!-- CONTENT -->
     <main class="container">
