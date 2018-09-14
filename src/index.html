@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
     <title>Play Time Entretenimento</title>
     <style>
@@ -12,128 +13,78 @@
             .imgHeaderLarge { display: none; }
         }
         @media (min-width: 351px) {
-            .imgHeaderLarge { display: block; }
             .imgHeaderSmall { display: none; }
+            .imgHeaderLarge { display: block; }
         }
 
-        nav ul {
-            background-color: #0d2aa3
+        .container {
+            text-align: center;
         }
-        nav ul li a {
-            color: #fff;
-            font-weight: bold
+        
+        p {
+            font-size: 20px
         }
-        nav ul li a.active {
-            background-color: #1139c6
+
+        main {
+            padding: 15px 0 1px 0;
         }
-        nav ul li a:hover {
-            color: #f9e317
+
+        h4 {
+            margin-top: 30px;
+            color:#0d2aa3
+        }
+        
+        /* Footer */
+        html {
+            position: relative;
+            min-height: 100%;
+        }
+        body {
+            margin-bottom: 50px; /* Margin bottom by footer height */
+        }
+        .footer {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 50px; /* Set the fixed height of the footer here */
+            line-height: 50px; /* Vertically center the text there */
+        }
+        .footer div {
+            background-color:#0d2aa3;
+            color: #f9e317;
         }
     </style>
 </head>
-<body data-spy="scroll" data-target="#menu" data-offset="0">
+<body>
     <!-- HEADER -->
-    <header class="container">
-        <img src="resources/images/header_large.svg" class="imgHeaderLarge">
-        <img src="resources/images/header_small.svg" class="imgHeaderSmall">
+    <header>
+        <div class="container">
+            <img src="resources/images/header_large.svg" class="imgHeaderLarge">
+            <img src="resources/images/header_small.svg" class="imgHeaderSmall">
+        </div>
     </header>
-    <!-- MENU -->
-    <nav id="menu" role="navigation" class="container sticky-top">
-        <ul class="nav nav-fill">
-            <li class="nav-item"><a class="nav-link" href="#Inicio">Início</a></li>
-            <li class="nav-item"><a class="nav-link" href="#Contato">Contato</a></li>
-            <li class="nav-item"><a class="nav-link" href="#RedesSociais">Redes Sociais</a></li>
-        </ul>
-    </nav>
-    <!-- CONTENT -->
+    <!-- MAIN -->
     <main class="container">
-        <h4 id="Inicio">INÍCIO</h4>
-        1<br />
-        2<br />
-        3<br />
-        4<br />
-        5<br />
-        6<br />
-        7<br />
-        8<br />
-        9<br />
-        0<br />
-        1<br />
-        2<br />
-        3<br />
-        4<br />
-        5<br />
-        6<br />
-        7<br />
-        8<br />
-        9<br />
-        0<br />
-        <h4 id="Contato">CONTATO</h4>
-        1<br />
-        2<br />
-        3<br />
-        4<br />
-        5<br />
-        6<br />
-        7<br />
-        8<br />
-        9<br />
-        0<br />
-        1<br />
-        2<br />
-        3<br />
-        4<br />
-        5<br />
-        6<br />
-        7<br />
-        8<br />
-        9<br />
-        0<br />
-        <h4 id="RedesSociais">REDES SOCIAIS</h4>
-        1<br />
-        2<br />
-        3<br />
-        4<br />
-        5<br />
-        6<br />
-        7<br />
-        8<br />
-        9<br />
-        0<br />
-        1<br />
-        2<br />
-        3<br />
-        4<br />
-        5<br />
-        6<br />
-        7<br />
-        8<br />
-        9<br />
-        0<br />
-        1<br />
-        2<br />
-        3<br />
-        4<br />
-        5<br />
-        6<br />
-        7<br />
-        8<br />
-        9<br />
-        0<br />
-        1<br />
-        2<br />
-        3<br />
-        4<br />
-        5<br />
-        6<br />
-        7<br />
-        8<br />
-        9<br />
-        0<br />
+        <p>Locação, aluguel e venda de máquinas de diversão eletrônica, vídeo game e fliperama.</p>
+        <h4>Entre em Contato</h4>
+        <p>
+            <i class="fas fa-phone"></i> (11) 99603-8923
+            <br>
+            <i class="fab fa-whatsapp"></i> (11) 99603-8923
+            <br>
+            Nextel ID: 35*7*36202
+            <br>
+            <i class="far fa-envelope"></i> <a href="mailto:playdiv@yahoo.com.br">playdiv@yahoo.com.br</a>
+            <br>
+        </p>
+
+        <p>
+            <a href="https://facebook.com/PlayTimeEntretenimento" target="_blank"><i class="fab fa-facebook-square fa-lg" style="color:#4267b2"></i> /PlayTimeEntretenimento</a>
+        </p>
     </main>
     <!-- FOOTER -->
-    <footer class="container">
-        FOOTER
+    <footer class="footer">
+        <div class="container">Play Time Entretenimento</div>
     </footer>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
